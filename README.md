@@ -1,4 +1,5 @@
 <html>
+  <title>Games</title>
   <head>
     <center>
       <h1 font-family="arial">Scratch</h1>
