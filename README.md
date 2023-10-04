@@ -1,1 +1,1 @@
-# cool
+<div id="div_iframe"><iframe src="https://html5.gamedistribution.com/2e44fb60fd3f4606b1b06c17a2b9d60d/?gdpr-targeting=1&amp;gd_sdk_referrer_url=https://www.silvergames.com/en/bitlife" id="iframe" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true"></iframe></div>
